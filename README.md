@@ -1,5 +1,7 @@
 # Hosting a Resume on AWS Static Website
 
+![Image](https://github.com/Awadheshks/assets/blob/b6db95ccc4fc4de034c4255a522ecc8adf7f3e74/StaticWebsite/AWS_StaticHosted_Arch.png)
+
 Welcome to this tutorial! Today, we'll guide you through hosting your own resume on AWS. This will not only showcase your resume in a professional way but also your technical prowess by leveraging the AWS platform
 ## Prerequisites
 Before we dive in, make sure we do have the following:
