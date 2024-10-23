@@ -8,8 +8,7 @@ Before we dive in, make sure we do have the following:
 - An AWS account
 - Some HTML/CSS/JS knowledge to create your resume (or willing to learn)
 - A local development environment (i.e., Visual Studio Code)
-- Python installed on your local machine (for running a local server)
-
+  
 ## Creating the Resume
   If you don't have a HTML/CSS/JS resume already, don't worry! There are several templates available that we can modify to create one. Once we've chosen a template, we can use a local IDE, like Visual Studio Code, to edit the code.
 
