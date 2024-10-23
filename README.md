@@ -77,7 +77,7 @@ Now we have static website available
 ![Image](https://github.com/Awadheshks/assets/blob/d9c4e2f9da0c5b82706e47484b98853dc838363d/StaticWebsite/Create_distribution_setting.png)
 
 #### 3. Finally Test the website through CloudFront:
-  Open newly created distributed domain name by CloudFront to see my resume.
+  Open newly created distributed domain name URL in any browser to view my resume.
           https://d3llgguvu0e6s7.cloudfront.net/
 
 
